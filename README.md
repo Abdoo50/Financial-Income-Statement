@@ -1,5 +1,8 @@
-# Income Statement Dashboard
+<h1 align="center">Financial Income Statement Analysis</h1>
 
+<p align="center">
+  <img src="https://github.com/Abdoo50/Financial-Income-Statement/blob/main/Financial%20Income%20Statement.png">
+</p>
 ## Overview
 
 This dashboard provides a detailed visualization of an income statement, designed to offer financial insights into a company's performance over time. By comparing various financial metrics year-on-year, stakeholders can quickly gauge financial health, profitability, and trends.
